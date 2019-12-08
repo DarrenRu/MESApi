@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer" />
+    <title>整合服務管理系統</title>
+    <script src="./res/js/jquery-3.3.1.min.js" type="text/javascript"></script>
+    <script src="./res/js/index.js" type="text/javascript"></script>
+    <script src="./res/js/configure.js"></script>
+    <link href="./res/css/index.css" rel="stylesheet" />
+    <script>
+        $(document).ready(function () {
+            var token = getCookie("token");
+            var initialPage = "./accountLogin.html";
+            if (token) initialPage = "./main.html";
+            $("#mainFrame").attr({ "src": initialPage });
+        });
+    </script>
+</head>
+<body>
+    <iframe frameBorder="0" id="mainFrame"></iframe>
+</body>
+</html>

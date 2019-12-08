@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCode.Services", "QRCode.Services\QRCode.Services.csproj", "{2307A119-C6CC-4DEE-970E-303A4D67B4C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCode.ViewModels", "QRCode.ViewModels\QRCode.ViewModels.csproj", "{E4E88A95-965F-42F6-9957-39855F26B85C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCode.WebAPI", "QRCode.WebAPI\QRCode.WebAPI.csproj", "{0C064F6C-EB7F-4EB0-BF52-5267353055C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCode.Models", "QRCode.Models\QRCode.Models.csproj", "{D43C6E93-45B6-4D21-9023-7A8854E36C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2307A119-C6CC-4DEE-970E-303A4D67B4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2307A119-C6CC-4DEE-970E-303A4D67B4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2307A119-C6CC-4DEE-970E-303A4D67B4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2307A119-C6CC-4DEE-970E-303A4D67B4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E88A95-965F-42F6-9957-39855F26B85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E88A95-965F-42F6-9957-39855F26B85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E88A95-965F-42F6-9957-39855F26B85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E88A95-965F-42F6-9957-39855F26B85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C064F6C-EB7F-4EB0-BF52-5267353055C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C064F6C-EB7F-4EB0-BF52-5267353055C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C064F6C-EB7F-4EB0-BF52-5267353055C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C064F6C-EB7F-4EB0-BF52-5267353055C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43C6E93-45B6-4D21-9023-7A8854E36C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43C6E93-45B6-4D21-9023-7A8854E36C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43C6E93-45B6-4D21-9023-7A8854E36C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43C6E93-45B6-4D21-9023-7A8854E36C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B871D9A-8112-4416-A7AC-B9FF35884943}
+	EndGlobalSection
+EndGlobal
