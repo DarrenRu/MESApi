@@ -30,7 +30,7 @@ namespace QRCode.WebAPI
                   //     listenOptions.UseHttps("localhost.pfx", "MyPassword");
                    //});
               // })
-               .UseUrls("http://163.13.243.125:6500")
+               .UseUrls("http://localhost:6500")
                .Build();
     }
 }
