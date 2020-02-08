@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\bin\Debug\netcoreapp2.2\BEasy.Models.deps.json
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\bin\Debug\netcoreapp2.2\BEasy.Models.runtimeconfig.json
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\bin\Debug\netcoreapp2.2\BEasy.Models.runtimeconfig.dev.json
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\bin\Debug\netcoreapp2.2\BEasy.Models.dll
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\bin\Debug\netcoreapp2.2\BEasy.Models.pdb
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\obj\Debug\netcoreapp2.2\BEasy.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\obj\Debug\netcoreapp2.2\BEasy.Models.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\obj\Debug\netcoreapp2.2\BEasy.Models.AssemblyInfo.cs
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\obj\Debug\netcoreapp2.2\BEasy.Models.dll
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\obj\Debug\netcoreapp2.2\BEasy.Models.pdb
+C:\Users\user\Documents\Source\Repos\BEasyAPI\BEasy.Models\obj\Debug\netcoreapp2.2\BEasy.Models.csprojAssemblyReference.cache

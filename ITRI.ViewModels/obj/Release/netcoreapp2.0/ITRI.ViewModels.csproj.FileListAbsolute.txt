@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\bin\Release\netcoreapp2.0\ITRI.ViewModels.deps.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\bin\Release\netcoreapp2.0\ITRI.ViewModels.runtimeconfig.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\bin\Release\netcoreapp2.0\ITRI.ViewModels.runtimeconfig.dev.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\bin\Release\netcoreapp2.0\ITRI.ViewModels.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\obj\Release\netcoreapp2.0\ITRI.ViewModels.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\obj\Release\netcoreapp2.0\ITRI.ViewModels.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\obj\Release\netcoreapp2.0\ITRI.ViewModels.AssemblyInfo.cs
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\bin\Release\netcoreapp2.0\ITRI.ViewModels.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\obj\Release\netcoreapp2.0\ITRI.ViewModels.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\obj\Release\netcoreapp2.0\ITRI.ViewModels.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.ViewModels\obj\Release\netcoreapp2.0\ITRI.ViewModels.csproj.CoreCompileInputs.cache

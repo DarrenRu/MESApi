@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\MES\MES\Test3\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\user\Desktop\MES\MES\Test3\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\user\Desktop\MES\MES\Test3\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\user\Desktop\MES\MES\Test3\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MES\MES\Test3\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MES\MES\Test3\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MES\MES\Test3\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\user\Desktop\MES\MES\Test3\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\user\Desktop\MES\MES\Test3\Service\obj\Debug\netcoreapp2.2\Service.pdb

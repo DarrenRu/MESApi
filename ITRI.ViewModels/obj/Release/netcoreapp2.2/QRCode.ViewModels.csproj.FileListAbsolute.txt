@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.ViewModels.deps.json
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.ViewModels.runtimeconfig.json
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.ViewModels.runtimeconfig.dev.json
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.ViewModels.dll
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.ViewModels.pdb
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.Models.dll
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\bin\Release\netcoreapp2.2\QRCode.Models.pdb
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.AssemblyInfo.cs
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.csproj.CopyComplete
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.dll
+C:\Users\user\Desktop\MES\MES\MESApi\QRCode.ViewModels\obj\Release\netcoreapp2.2\QRCode.ViewModels.pdb

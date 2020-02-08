@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Services.deps.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Services.runtimeconfig.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Services.runtimeconfig.dev.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Services.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Services.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Models.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.ViewModels.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.Models.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\bin\Release\netcoreapp2.2\ITRI.ViewModels.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.AssemblyInfo.cs
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.csproj.CopyComplete
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Services\obj\Release\netcoreapp2.2\ITRI.Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\bin\Debug\netcoreapp2.2\ITRI.Models.deps.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\bin\Debug\netcoreapp2.2\ITRI.Models.runtimeconfig.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\bin\Debug\netcoreapp2.2\ITRI.Models.runtimeconfig.dev.json
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\bin\Debug\netcoreapp2.2\ITRI.Models.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\bin\Debug\netcoreapp2.2\ITRI.Models.pdb
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\obj\Debug\netcoreapp2.2\ITRI.Models.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\obj\Debug\netcoreapp2.2\ITRI.Models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\obj\Debug\netcoreapp2.2\ITRI.Models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\obj\Debug\netcoreapp2.2\ITRI.Models.AssemblyInfo.cs
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\obj\Debug\netcoreapp2.2\ITRI.Models.dll
+C:\Users\user\Desktop\MES\MES\Test3\ITRI.Models\obj\Debug\netcoreapp2.2\ITRI.Models.pdb
